@@ -12,7 +12,7 @@
   - **Pruebas de API:** Uso de Postman para pruebas y depuración de API.
 
 - 💞️ Busco colaborar en proyectos relacionados con desarrollo full-stack, infraestructura en la nube o integración de APIs.  
-- 📫 Cómo contactarme: [Tu información de contacto]
+- 📫 Cómo contactarme: https://www.linkedin.com/in/hugo-fica-s%C3%A1ez/
 
 
 <!---
